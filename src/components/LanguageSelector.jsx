@@ -42,7 +42,7 @@ LanguageSelector.defaultProps = {
   defaultLang: "en",
   langKey: "en",
   langTextMap: {
-    en: "English",
+    en: "Português",
   },
 };
 

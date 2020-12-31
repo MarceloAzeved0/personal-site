@@ -1,22 +1,22 @@
 ---
-anchor: "Services"
-header: "Services"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+anchor: "Serviços"
+header: "Serviços"
+subheader: "Nossa missão é desenvolver um produto de qualidade."
 services: [
   {
-    iconName: "ShoppingCartIcon",
-    header: "E-Commerce",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    iconName: "LaptopIcon",
+    header: "Layout Responsivo",
+    content: "Criamos sites e plataformas WEB conforme sua necessidade."
   },
   {
-    iconName: "LaptopIcon",
-    header: "Responsive Design",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    iconName: "ShoppingCartIcon",
+    header: "Criação de Aplicativos",
+    content: "Criamos e desenvolvemos aplicativos para Android e IOS."
   },
   {
     iconName: "LockIcon",
-    header: "Web Security",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "Segurança",
+    content: "Utilizamos das mais modernas normas de desenvolvimento seguro."
   }
 ]
 ---

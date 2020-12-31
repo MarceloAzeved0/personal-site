@@ -30,13 +30,7 @@ const Footer = ({ frontmatter }) => {
             {facebook ? <SocialIcons.Facebook userName={facebook} /> : null}
             {linkedin ? <SocialIcons.Linkedin userName={linkedin} /> : null}
             {github ? <SocialIcons.Github userName={github} /> : null}
-            {medium ? <SocialIcons.Medium userName={medium} /> : null}
-          </Col>
-          <Col lg={4} className="text-lg-right">
-            <a className="mr-3" href={privacyHref}>
-              {privacyText}
-            </a>
-            <a href={termsHref}>{termsText}</a>
+            {/* {medium ? <SocialIcons.Medium userName={medium} /> : null} */}
           </Col>
         </Row>
       </Container>
