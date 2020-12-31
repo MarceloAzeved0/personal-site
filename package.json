@@ -38,7 +38,7 @@
     "throttle-debounce": "^2.1.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0",
+    "@babel/core": "7.4.5",
     "babel-eslint": "^10.1.0",
     "babel-plugin-import": "^1.13.0",
     "babel-plugin-module-resolver": "^4.0.0",
