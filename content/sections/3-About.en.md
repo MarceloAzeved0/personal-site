@@ -5,30 +5,24 @@ subheader: "Onde quer que exista uma necessidade, há uma oportunidade"
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2009-2011",
-    subheader: "Our Humble Beginnings",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  },
-  {
-    imageFileName: "about/2.jpg",
-    header: "March 2011",
-    subheader: "An Agency is Born",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "Dezembro 2018",
+    subheader: "Ínicio",
+    content: "Criação da empresa com sede de desenvolvimento em Porto Alegre com o serviço de criação de sites."
   },
   {
     imageFileName: "about/3.jpg",
-    header: "December 2012",
-    subheader: "Transition to Full Service",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "Dezembro 2019",
+    subheader: "Plataformas WEB",
+    content: "Adicionamos como opção de serviço o desenvolvimento de plataformas WEB."
   },
   {
     imageFileName: "about/4.jpg",
-    header: "July 2014",
-    subheader: "Phase Two Expansion",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "Junho 2020",
+    subheader: "Aplicativos",
+    content: "Passamos a incluir nos nossos serviços desenvolvimento de aplicativos."
   },
   {
-    imageContent: "Be Part\r\nOf Our\r\nStory!"
+    imageContent: "Venha fazer\r\nparte da \r\nnossa história!"
   }
 ]
 ---
