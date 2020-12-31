@@ -1,20 +1,20 @@
 module.exports = {
-  title: "Gatsyby Startbootstrap Agency",
+  title: "D2C - Desenvolver para Cooperar",
   keywords: [
-    "gatsby",
-    "gatsbyjs",
-    "landing page",
-    "landing",
-    "i18n",
-    "eslint",
-    "bootstrap",
-    "startbootstrap-agency",
+    "Desenvolvimento",
+    "Programação",
+    "Aplicativos",
+    "Sistema",
+    "Plataforma",
+    "Startup",
+    "Tecnologia",
+    "Porto Alegre",
   ],
-  description: "gatsby version of startbootstrap-agency with i18n support.",
-  author: "thundermiracle",
+  description: "Desenvolvimento de sistemas com foco no cliente",
+  author: "D2C - Sistemas",
   trackingId: "UA-119418003-5",
-  defaultLang: "ptbr",
+  defaultLang: "en",
   langTextMap: {
-    ptbr: "Português",
+    en: "Português"
   },
 };

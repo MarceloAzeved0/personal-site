@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
+header: "D2C"
+subheader: "Desenvolvimento de sistemas e sites personalizados"
 imageFileName: "header-bg.jpg"
-jumpToAnchor: "Services"
-jumpToAnchorText: "Tell Me More"
+jumpToAnchor: "Serviços"
+jumpToAnchorText: "Nossos serviços"
 ---

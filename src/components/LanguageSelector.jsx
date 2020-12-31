@@ -39,10 +39,10 @@ LanguageSelector.propTypes = {
 };
 
 LanguageSelector.defaultProps = {
-  defaultLang: "ptbr",
-  langKey: "ptbr",
+  defaultLang: "en",
+  langKey: "en",
   langTextMap: {
-    ptbr: "Português",
+    en: "Português",
   },
 };
 
